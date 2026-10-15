@@ -1,0 +1,57 @@
+{
+  "id": "plaza-de-la-revolucion-hogarencuba-020",
+  "municipio": {
+    "id": "plaza-de-la-revolucion",
+    "nombre": "Plaza de la Revolución",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/plaza-de-la-revolucion/HEC2693-casa-de-6-cuartos-y-2-banos-por-75000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=plaza-de-la-revolucion",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "**hace un año (límite)**",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2693 (en proceso de obras)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Vedado",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "75.000",
+    "valor": 75000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "6",
+    "banos": "2",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 45000,
+    "precio_estandarizado_usd": 63300,
+    "registros_6_meses": 441,
+    "posicion_vs_mediana_pct": 66.7,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/plaza-de-la-revolucion.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

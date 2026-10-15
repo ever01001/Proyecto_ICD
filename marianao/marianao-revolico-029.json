@@ -1,0 +1,59 @@
+{
+  "id": "marianao-revolico-029",
+  "municipio": {
+    "id": "marianao",
+    "nombre": "Marianao",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/venta-de-casa-capitalista-en-centro-habana-56391911",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=marianao",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Venta de casa capitalista (anuncio publicado como Centro Habana, ubicado en Marianao)",
+    "descripcion": "Discrepancia de municipio entre el título y la ubicación declarada",
+    "tipo_inmueble": "casa",
+    "operacion": "venta",
+    "reparto": null,
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "25,000 USD",
+    "valor": 25000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 16000,
+    "precio_estandarizado_usd": 20100,
+    "registros_6_meses": 220,
+    "posicion_vs_mediana_pct": 56.2,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [
+      "El título menciona 'Centro Habana' pero el anuncio está declarado en Marianao"
+    ],
+    "notas": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "plaza-de-la-revolucion-hogarencuba-019",
+  "municipio": {
+    "id": "plaza-de-la-revolucion",
+    "nombre": "Plaza de la Revolución",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/plaza-de-la-revolucion/HEC2865-casa-de-7-cuartos-y-7-banos-por-750000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=plaza-de-la-revolucion",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "hace 1 mes (~13-sep-2026)",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2865",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Vedado-Malecón",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "750.000",
+    "valor": 750000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "7",
+    "banos": "7",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 45000,
+    "precio_estandarizado_usd": 63300,
+    "registros_6_meses": 441,
+    "posicion_vs_mediana_pct": 1566.7,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/plaza-de-la-revolucion.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

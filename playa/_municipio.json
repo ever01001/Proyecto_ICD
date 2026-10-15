@@ -1,0 +1,240 @@
+{
+  "municipio": {
+    "id": "playa",
+    "nombre": "Playa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 606,
+    "mediana_usd": 42000,
+    "precio_estandarizado_usd": 53000,
+    "rango_usd": {
+      "min_usd": 3500,
+      "max_usd": 2500000
+    },
+    "viviendas_en_venta": 170,
+    "permutas": 10,
+    "evolucion": {
+      "texto": "▲ +5 % desde ago-2026 (mín. $40,000 · máx. $50,000)",
+      "variacion_pct": 5.0,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Apartamento",
+        "propiedades": 235,
+        "mediana_usd": 22000
+      },
+      {
+        "tipo": "Casa",
+        "propiedades": 192,
+        "mediana_usd": 50000
+      },
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 136,
+        "mediana_usd": 100000
+      },
+      {
+        "tipo": "Biplanta",
+        "propiedades": 40,
+        "mediana_usd": 66500
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "1 hab.",
+        "propiedades": 78,
+        "mediana_usd": 15000
+      },
+      {
+        "habitaciones": "2 hab.",
+        "propiedades": 182,
+        "mediana_usd": 25750
+      },
+      {
+        "habitaciones": "3 hab.",
+        "propiedades": 179,
+        "mediana_usd": 45000
+      },
+      {
+        "habitaciones": "4 hab.",
+        "propiedades": 98,
+        "mediana_usd": 90000
+      },
+      {
+        "habitaciones": "5 hab.",
+        "propiedades": 38,
+        "mediana_usd": 165000
+      },
+      {
+        "habitaciones": "6 hab.",
+        "propiedades": 31,
+        "mediana_usd": 210000
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "Miramar",
+        "anuncios": 94,
+        "mediana_usd": 82500,
+        "precio_estandarizado_usd": 85400
+      },
+      {
+        "barrio": "Santa Fe",
+        "anuncios": 70,
+        "mediana_usd": 72500,
+        "precio_estandarizado_usd": 45200
+      },
+      {
+        "barrio": "Ampliación Almendares",
+        "anuncios": 62,
+        "mediana_usd": 36500,
+        "precio_estandarizado_usd": 38600
+      },
+      {
+        "barrio": "Buenavista",
+        "anuncios": 44,
+        "mediana_usd": 23500,
+        "precio_estandarizado_usd": 25200
+      },
+      {
+        "barrio": "La Ceiba",
+        "anuncios": 33,
+        "mediana_usd": 20000,
+        "precio_estandarizado_usd": 23600
+      },
+      {
+        "barrio": "Almendares",
+        "anuncios": 28,
+        "mediana_usd": 42500,
+        "precio_estandarizado_usd": 47300
+      },
+      {
+        "barrio": "Sierra - Almendares",
+        "anuncios": 19,
+        "mediana_usd": 65000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Cubanacán",
+        "anuncios": 13,
+        "mediana_usd": 22000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Jaimanitas",
+        "anuncios": 13,
+        "mediana_usd": 70000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Siboney",
+        "anuncios": 12,
+        "mediana_usd": 124000,
+        "precio_estandarizado_usd": null
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/playa",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=playa",
+    "publicaciones_incluidas": 30,
+    "anuncios_disponibles": 42
+  },
+  "ficheros_publicaciones": [
+    "playa-hogarencuba-001.json",
+    "playa-hogarencuba-002.json",
+    "playa-hogarencuba-003.json",
+    "playa-hogarencuba-004.json",
+    "playa-hogarencuba-005.json",
+    "playa-hogarencuba-006.json",
+    "playa-hogarencuba-007.json",
+    "playa-hogarencuba-008.json",
+    "playa-hogarencuba-009.json",
+    "playa-hogarencuba-010.json",
+    "playa-casas-oasis-011.json",
+    "playa-casas-oasis-012.json",
+    "playa-casas-oasis-013.json",
+    "playa-casas-oasis-014.json",
+    "playa-casas-oasis-015.json",
+    "playa-casas-oasis-016.json",
+    "playa-casas-oasis-017.json",
+    "playa-casas-oasis-018.json",
+    "playa-casas-oasis-019.json",
+    "playa-casas-oasis-020.json",
+    "playa-casas-oasis-021.json",
+    "playa-casas-oasis-022.json",
+    "playa-casas-oasis-023.json",
+    "playa-casas-oasis-024.json",
+    "playa-hogarencuba-025.json",
+    "playa-hogarencuba-026.json",
+    "playa-hogarencuba-027.json",
+    "playa-hogarencuba-028.json",
+    "playa-hogarencuba-029.json",
+    "playa-hogarencuba-030.json"
+  ],
+  "excluidas_por_limite": [
+    {
+      "titulo": "HEC2432 (casa construida en 1940, restaurada en 2022, dos plantas · rebaja 21 %, antes 1.200.000)",
+      "precio_usd": 950000,
+      "url": "https://hogarencuba.com/la-habana/playa/HEC2432-casa-de-6-cuartos-7-banos-y-1-garaje-por-950000"
+    },
+    {
+      "titulo": "HEC2109 (casa en la Zona Residencial de Embajadas · rebaja 29 %, antes 350.000)",
+      "precio_usd": 250000,
+      "url": "https://hogarencuba.com/la-habana/playa/HEC2109-casa-de-4-cuartos-4-banos-y-2-garajes-por-250000"
+    },
+    {
+      "titulo": "Casa en venta en el Reparto Náutico!!",
+      "precio_usd": 75000,
+      "url": "https://www.revolico.com/item/casa-en-venta-en-el-reparto-nautico-a-40m-de-la-playa-56176360"
+    },
+    {
+      "titulo": "Casa Biplanta bajo 3/4, garage 2 carros, 2 baños, por 44 y 31",
+      "precio_usd": 35000,
+      "url": "https://www.revolico.com/item/casa-biplanta-bajo-34-garage-2-carros2-banos-por-44y31-jose-manuel-54710876-57114877"
+    },
+    {
+      "titulo": "14034 (Casa Independiente)",
+      "precio_usd": null,
+      "url": "https://casasoasis.com/es/venta/casas-independientes/la-habana/playa/miramar/casa-independiente-2-habitaciones-14034"
+    },
+    {
+      "titulo": "Oportunidad de inversión, Playa, Siboney",
+      "precio_usd": 25000,
+      "url": "https://www.revolico.com/item/oportunidad-de-inversion-playa-siboney-57966185"
+    },
+    {
+      "titulo": "Venta o permuta de casa en Playa con 4 habitaciones, 3 niveles, ideal para dos familias",
+      "precio_usd": 80000,
+      "url": "https://www.revolico.com/item/venta-o-permuta-de-casa-en-playa-con-4-habitaciones-ideal-para-dos-familias-de-3-niveles-55814529"
+    },
+    {
+      "titulo": "Casa Independiente Playa, amueblada, con paneles solares (negociable)",
+      "precio_usd": 70000,
+      "url": "https://www.revolico.com/item/casa-independiente-playa-kia-picanto-amueblada-paneles-solares-100-000-usd-56596544"
+    },
+    {
+      "titulo": "Dos casas en una por solo 55 mil USD (ocasión)",
+      "precio_usd": 55000,
+      "url": "https://www.revolico.com/item/dos-casas-en-una-por-solo-55-mil-usd-ocasion-47221935"
+    },
+    {
+      "titulo": "14429 (Casa Independiente)",
+      "precio_usd": null,
+      "url": "https://casasoasis.com/es/venta/casas-independientes/la-habana/playa/casa-independiente-2-habitaciones-14429"
+    },
+    {
+      "titulo": "Apto en playa en 74",
+      "precio_usd": 23000,
+      "url": "https://www.revolico.com/item/apto-en-playa-en-74-57574230"
+    },
+    {
+      "titulo": "(sin referencia)",
+      "precio_usd": null,
+      "url": "https://casasoasis.com/es/venta/casas/la-habana/playa"
+    }
+  ]
+}

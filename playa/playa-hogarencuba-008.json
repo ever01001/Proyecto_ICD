@@ -1,0 +1,59 @@
+{
+  "id": "playa-hogarencuba-008",
+  "municipio": {
+    "id": "playa",
+    "nombre": "Playa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/playa/HEC2772-casa-de-5-cuartos-4-banos-y-1-garaje-por-180000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=playa",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "hace 6 meses (~13-abr-2026)",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2772 (casa, 1 garaje)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Playa (sin reparto)",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "180.000",
+    "valor": 180000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "5",
+    "banos": "4",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": true,
+    "estado": null,
+    "extras": [
+      "garaje"
+    ]
+  },
+  "contexto_municipio": {
+    "mediana_usd": 42000,
+    "precio_estandarizado_usd": 53000,
+    "registros_6_meses": 606,
+    "posicion_vs_mediana_pct": 328.6,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/playa.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

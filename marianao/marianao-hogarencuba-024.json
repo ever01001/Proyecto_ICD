@@ -1,0 +1,57 @@
+{
+  "id": "marianao-hogarencuba-024",
+  "municipio": {
+    "id": "marianao",
+    "nombre": "Marianao",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/marianao/HEC2756-terreno-0-por-100000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=marianao",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "Actualizado: hace 6 meses",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2756 (no es vivienda)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Marianao",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "100,000",
+    "valor": 100000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "—",
+    "banos": "—",
+    "superficie_m2": "4,800 (terreno)",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 16000,
+    "precio_estandarizado_usd": 20100,
+    "registros_6_meses": 220,
+    "posicion_vs_mediana_pct": 525.0,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/marianao.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

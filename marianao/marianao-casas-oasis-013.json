@@ -1,0 +1,57 @@
+{
+  "id": "marianao-casas-oasis-013",
+  "municipio": {
+    "id": "marianao",
+    "nombre": "Marianao",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "casas_oasis",
+    "categoria": "anuncio",
+    "url": "https://casasoasis.com/es/venta/casas-independientes/la-habana/marianao/pocito-palmar/casa-independiente-2-habitaciones-9560",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=marianao",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "247 días",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Oasis 9560",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Pocito - Palmar",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "7,000",
+    "valor": 7000,
+    "valor_anterior": 9560,
+    "rebaja_pct": -26.8,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "2",
+    "banos": "1",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 16000,
+    "precio_estandarizado_usd": 20100,
+    "registros_6_meses": 220,
+    "posicion_vs_mediana_pct": -56.2,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/marianao.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

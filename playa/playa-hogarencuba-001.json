@@ -1,0 +1,57 @@
+{
+  "id": "playa-hogarencuba-001",
+  "municipio": {
+    "id": "playa",
+    "nombre": "Playa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/playa/HEC2892-casa-de-3-cuartos-y-5-banos-por-400000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=playa",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "hace 14 días (~29-sep-2026)",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2892 (casa independiente, mampostería/placa)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Siboney",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "400.000",
+    "valor": 400000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "3",
+    "banos": "5",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 42000,
+    "precio_estandarizado_usd": 53000,
+    "registros_6_meses": 606,
+    "posicion_vs_mediana_pct": 852.4,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/playa.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "plaza-de-la-revolucion-hogarencuba-022",
+  "municipio": {
+    "id": "plaza-de-la-revolucion",
+    "nombre": "Plaza de la Revolución",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/plaza-de-la-revolucion/HEC2664-casa-de-4-cuartos-y-1-bano-por-58000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=plaza-de-la-revolucion",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "**hace un año (límite)**",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2664 (muros de ladrillo, placa de hormigón armado)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Vedado (\"zona de letras\", cerca de 23)",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "58.000",
+    "valor": 58000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "4",
+    "banos": "1",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 45000,
+    "precio_estandarizado_usd": 63300,
+    "registros_6_meses": 441,
+    "posicion_vs_mediana_pct": 28.9,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/plaza-de-la-revolucion.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

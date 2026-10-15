@@ -1,0 +1,57 @@
+{
+  "id": "playa-hogarencuba-004",
+  "municipio": {
+    "id": "playa",
+    "nombre": "Playa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/playa/HEC2802-casa-de-4-cuartos-y-2-banos-por-100000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=playa",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "hace 4 meses (~13-jun-2026)",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2802 (casa **para reparar totalmente** · rebaja 17 %, antes 120.000)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Santa Fé",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "100.000",
+    "valor": 100000,
+    "valor_anterior": 120000,
+    "rebaja_pct": -17.0,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "4",
+    "banos": "2",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": "para reparar",
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 42000,
+    "precio_estandarizado_usd": 53000,
+    "registros_6_meses": 606,
+    "posicion_vs_mediana_pct": 138.1,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/playa.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

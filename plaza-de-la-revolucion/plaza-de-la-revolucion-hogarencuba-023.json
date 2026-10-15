@@ -1,0 +1,57 @@
+{
+  "id": "plaza-de-la-revolucion-hogarencuba-023",
+  "municipio": {
+    "id": "plaza-de-la-revolucion",
+    "nombre": "Plaza de la Revolución",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/playa/HEC2602-casa-de-1-cuarto-y-1-bano-por-135000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=plaza-de-la-revolucion",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "**hace un año (límite)**",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2602 (ático de lujo en 5ta Avenida)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "⚠️ **Listado bajo Plaza de la Revolución pero ubicado en Miramar, Playa**",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "135.000",
+    "valor": 135000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "1",
+    "banos": "1",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 45000,
+    "precio_estandarizado_usd": 63300,
+    "registros_6_meses": 441,
+    "posicion_vs_mediana_pct": 200.0,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/plaza-de-la-revolucion.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

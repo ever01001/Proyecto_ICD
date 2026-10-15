@@ -1,0 +1,143 @@
+{
+  "municipio": {
+    "id": "plaza-de-la-revolucion",
+    "nombre": "Plaza de la Revolución",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 441,
+    "mediana_usd": 45000,
+    "precio_estandarizado_usd": 63300,
+    "rango_usd": {
+      "min_usd": 3000,
+      "max_usd": 1200000
+    },
+    "viviendas_en_venta": 87,
+    "permutas": 7,
+    "evolucion": {
+      "texto": "▲ +4,7 % desde ago-2026 (mín. $41,500 · máx. $50,000)",
+      "variacion_pct": 4.7,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Apartamento",
+        "propiedades": 306,
+        "mediana_usd": 35000
+      },
+      {
+        "tipo": "Casa",
+        "propiedades": 78,
+        "mediana_usd": 57500
+      },
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 35,
+        "mediana_usd": 150000
+      },
+      {
+        "tipo": "Biplanta",
+        "propiedades": 14,
+        "mediana_usd": 65000
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "1 hab.",
+        "propiedades": 50,
+        "mediana_usd": 20000
+      },
+      {
+        "habitaciones": "2 hab.",
+        "propiedades": 181,
+        "mediana_usd": 35000
+      },
+      {
+        "habitaciones": "3 hab.",
+        "propiedades": 106,
+        "mediana_usd": 60000
+      },
+      {
+        "habitaciones": "4 hab.",
+        "propiedades": 58,
+        "mediana_usd": 102500
+      },
+      {
+        "habitaciones": "5 hab.",
+        "propiedades": 25,
+        "mediana_usd": 140000
+      },
+      {
+        "habitaciones": "6 hab.",
+        "propiedades": 21,
+        "mediana_usd": 250000
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "Vedado",
+        "anuncios": 245,
+        "mediana_usd": 45000,
+        "precio_estandarizado_usd": 61600
+      },
+      {
+        "barrio": "Nuevo Vedado",
+        "anuncios": 87,
+        "mediana_usd": 36000,
+        "precio_estandarizado_usd": 59300
+      },
+      {
+        "barrio": "Plaza",
+        "anuncios": 25,
+        "mediana_usd": 43000,
+        "precio_estandarizado_usd": 52500
+      },
+      {
+        "barrio": "Vedado - Malecón",
+        "anuncios": 23,
+        "mediana_usd": 75000,
+        "precio_estandarizado_usd": 69000
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/plaza-de-la-revolucion",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=plaza-de-la-revolucion",
+    "publicaciones_incluidas": 30,
+    "anuncios_disponibles": 30
+  },
+  "ficheros_publicaciones": [
+    "plaza-de-la-revolucion-hogarencuba-001.json",
+    "plaza-de-la-revolucion-hogarencuba-002.json",
+    "plaza-de-la-revolucion-hogarencuba-003.json",
+    "plaza-de-la-revolucion-casas-oasis-004.json",
+    "plaza-de-la-revolucion-casas-oasis-005.json",
+    "plaza-de-la-revolucion-casas-oasis-006.json",
+    "plaza-de-la-revolucion-casas-oasis-007.json",
+    "plaza-de-la-revolucion-casas-oasis-008.json",
+    "plaza-de-la-revolucion-casas-oasis-009.json",
+    "plaza-de-la-revolucion-casas-oasis-010.json",
+    "plaza-de-la-revolucion-casas-oasis-011.json",
+    "plaza-de-la-revolucion-casas-oasis-012.json",
+    "plaza-de-la-revolucion-casas-oasis-013.json",
+    "plaza-de-la-revolucion-casas-oasis-014.json",
+    "plaza-de-la-revolucion-casas-oasis-015.json",
+    "plaza-de-la-revolucion-casas-oasis-016.json",
+    "plaza-de-la-revolucion-casas-oasis-017.json",
+    "plaza-de-la-revolucion-casas-oasis-018.json",
+    "plaza-de-la-revolucion-hogarencuba-019.json",
+    "plaza-de-la-revolucion-hogarencuba-020.json",
+    "plaza-de-la-revolucion-hogarencuba-021.json",
+    "plaza-de-la-revolucion-hogarencuba-022.json",
+    "plaza-de-la-revolucion-hogarencuba-023.json",
+    "plaza-de-la-revolucion-hogarencuba-024.json",
+    "plaza-de-la-revolucion-hogarencuba-025.json",
+    "plaza-de-la-revolucion-revolico-026.json",
+    "plaza-de-la-revolucion-revolico-027.json",
+    "plaza-de-la-revolucion-revolico-028.json",
+    "plaza-de-la-revolucion-revolico-029.json",
+    "plaza-de-la-revolucion-casas-oasis-030.json"
+  ],
+  "excluidas_por_limite": []
+}

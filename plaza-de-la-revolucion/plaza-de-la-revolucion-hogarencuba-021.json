@@ -1,0 +1,57 @@
+{
+  "id": "plaza-de-la-revolucion-hogarencuba-021",
+  "municipio": {
+    "id": "plaza-de-la-revolucion",
+    "nombre": "Plaza de la Revolución",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/plaza-de-la-revolucion/HEC2703-casa-de-9-cuartos-y-5-banos-por-135000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=plaza-de-la-revolucion",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "**hace un año (límite)**",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2703 (**biplanta** · rebaja 10 %, antes 150.000)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Vedado",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "135.000",
+    "valor": 135000,
+    "valor_anterior": 150000,
+    "rebaja_pct": -10.0,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "9",
+    "banos": "5",
+    "superficie_m2": "no disponible",
+    "plantas": 2,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 45000,
+    "precio_estandarizado_usd": 63300,
+    "registros_6_meses": 441,
+    "posicion_vs_mediana_pct": 200.0,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/plaza-de-la-revolucion.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "playa-hogarencuba-030",
+  "municipio": {
+    "id": "playa",
+    "nombre": "Playa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/playa/HEC2653-casa-de-3-cuartos-2-banos-y-1-garaje-por-150000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=playa",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "**hace un año (límite)**",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2653 (**casa biplanta** totalmente independiente; planta alta en construcción)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Siboney",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "150.000",
+    "valor": 150000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "3",
+    "banos": "2 (+1 garaje)",
+    "superficie_m2": "no disponible",
+    "plantas": 2,
+    "garaje": null,
+    "estado": "en construcción",
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 42000,
+    "precio_estandarizado_usd": 53000,
+    "registros_6_meses": 606,
+    "posicion_vs_mediana_pct": 257.1,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/playa.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

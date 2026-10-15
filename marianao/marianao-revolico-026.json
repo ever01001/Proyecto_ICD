@@ -1,0 +1,57 @@
+{
+  "id": "marianao-revolico-026",
+  "municipio": {
+    "id": "marianao",
+    "nombre": "Marianao",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/2-casas-en-1-en-venta-marianao-precio-18000-usd-ajustable-a-16000-con-dinero-en-mano-cerca-de-100-y-5-57831390",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=marianao",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "2 casas en 1 en venta — Marianao (precio ajustable a 16,000 con dinero en mano)",
+    "descripcion": "Ajustable a 16,000 USD con dinero en mano",
+    "tipo_inmueble": "casa",
+    "operacion": "venta",
+    "reparto": "Cerca de 100 y 5",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "18,000 USD",
+    "valor": 18000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": true,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 16000,
+    "precio_estandarizado_usd": 20100,
+    "registros_6_meses": 220,
+    "posicion_vs_mediana_pct": 12.5,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

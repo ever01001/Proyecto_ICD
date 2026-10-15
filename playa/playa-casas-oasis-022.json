@@ -1,0 +1,57 @@
+{
+  "id": "playa-casas-oasis-022",
+  "municipio": {
+    "id": "playa",
+    "nombre": "Playa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "casas_oasis",
+    "categoria": "anuncio",
+    "url": "https://casasoasis.com/es/venta/casas-independientes/la-habana/playa/miramar/casa-independiente-5-habitaciones-14212",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=playa",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "34 días",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "14212 (Casa Independiente)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Miramar",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "600.000",
+    "valor": 600000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "5",
+    "banos": "5",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 42000,
+    "precio_estandarizado_usd": 53000,
+    "registros_6_meses": 606,
+    "posicion_vs_mediana_pct": 1328.6,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/playa.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

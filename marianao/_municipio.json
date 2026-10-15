@@ -1,0 +1,112 @@
+{
+  "municipio": {
+    "id": "marianao",
+    "nombre": "Marianao",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 220,
+    "mediana_usd": 16000,
+    "precio_estandarizado_usd": 20100,
+    "rango_usd": {
+      "min_usd": 3500,
+      "max_usd": 150000
+    },
+    "viviendas_en_venta": 54,
+    "permutas": 3,
+    "evolucion": {
+      "texto": "0 % desde ago-2026 (mín. $15,000 · máx. $16,000)",
+      "variacion_pct": 0.0,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Apartamento",
+        "propiedades": 86,
+        "mediana_usd": 12000
+      },
+      {
+        "tipo": "Casa",
+        "propiedades": 80,
+        "mediana_usd": 20000
+      },
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 43,
+        "mediana_usd": 30000
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "no disponible",
+        "propiedades": null,
+        "mediana_usd": null
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "Zamora",
+        "anuncios": 16,
+        "mediana_usd": 19000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Santa Felicia",
+        "anuncios": 15,
+        "mediana_usd": 15000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Los Quemados",
+        "anuncios": 13,
+        "mediana_usd": 15000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Coco Solo",
+        "anuncios": 10,
+        "mediana_usd": 10500,
+        "precio_estandarizado_usd": null
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/marianao",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=marianao",
+    "publicaciones_incluidas": 29,
+    "anuncios_disponibles": 29
+  },
+  "ficheros_publicaciones": [
+    "marianao-casas-oasis-001.json",
+    "marianao-casas-oasis-002.json",
+    "marianao-casas-oasis-003.json",
+    "marianao-casas-oasis-004.json",
+    "marianao-casas-oasis-005.json",
+    "marianao-casas-oasis-006.json",
+    "marianao-casas-oasis-007.json",
+    "marianao-casas-oasis-008.json",
+    "marianao-casas-oasis-009.json",
+    "marianao-casas-oasis-010.json",
+    "marianao-casas-oasis-011.json",
+    "marianao-casas-oasis-012.json",
+    "marianao-casas-oasis-013.json",
+    "marianao-casas-oasis-014.json",
+    "marianao-casas-oasis-015.json",
+    "marianao-casas-oasis-016.json",
+    "marianao-casas-oasis-017.json",
+    "marianao-casas-oasis-018.json",
+    "marianao-casas-oasis-019.json",
+    "marianao-casas-oasis-020.json",
+    "marianao-casas-oasis-021.json",
+    "marianao-casas-oasis-022.json",
+    "marianao-casas-oasis-023.json",
+    "marianao-hogarencuba-024.json",
+    "marianao-hogarencuba-025.json",
+    "marianao-revolico-026.json",
+    "marianao-revolico-027.json",
+    "marianao-revolico-028.json",
+    "marianao-revolico-029.json"
+  ],
+  "excluidas_por_limite": []
+}

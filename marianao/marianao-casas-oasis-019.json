@@ -1,0 +1,57 @@
+{
+  "id": "marianao-casas-oasis-019",
+  "municipio": {
+    "id": "marianao",
+    "nombre": "Marianao",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "casas_oasis",
+    "categoria": "anuncio",
+    "url": "https://casasoasis.com/es/venta/biplantas/la-habana/marianao/biplanta-2-habitaciones-12041",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=marianao",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "100 días",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Oasis 12041 (biplanta)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Marianao (sin reparto)",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "53,000",
+    "valor": 53000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "2",
+    "banos": "3",
+    "superficie_m2": "no disponible",
+    "plantas": 2,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 16000,
+    "precio_estandarizado_usd": 20100,
+    "registros_6_meses": 220,
+    "posicion_vs_mediana_pct": 231.2,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/marianao.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}
