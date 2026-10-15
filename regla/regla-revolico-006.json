@@ -1,0 +1,57 @@
+{
+  "id": "regla-revolico-006",
+  "municipio": {
+    "id": "regla",
+    "nombre": "Regla",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/venta_apartamento_regla_reparto-la_ciruela-57949792",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=regla",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Venta apartamento Regla, Reparto La Ciruela",
+    "descripcion": "Precio no visible en el listado",
+    "tipo_inmueble": "apartamento",
+    "operacion": "venta",
+    "reparto": "La Ciruela",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": null,
+    "publicado": null,
+    "valor": null,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 9400,
+    "precio_estandarizado_usd": 8500,
+    "registros_6_meses": 40,
+    "posicion_vs_mediana_pct": null,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

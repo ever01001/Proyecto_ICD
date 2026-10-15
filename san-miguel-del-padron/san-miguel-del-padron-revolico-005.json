@@ -1,0 +1,57 @@
+{
+  "id": "san-miguel-del-padron-revolico-005",
+  "municipio": {
+    "id": "san-miguel-del-padron",
+    "nombre": "San Miguel del Padrón",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/casa-en-venta-en-rpto-ciudamar-54011427",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=san-miguel-del-padron",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Espectacular casa de 3 plantas en venta, Reparto Ciudamar",
+    "descripcion": "3 plantas; precio no visible en el listado",
+    "tipo_inmueble": "casa",
+    "operacion": "venta",
+    "reparto": "Ciudamar",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": null,
+    "publicado": null,
+    "valor": null,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": 3,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 12000,
+    "precio_estandarizado_usd": 12700,
+    "registros_6_meses": 167,
+    "posicion_vs_mediana_pct": null,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

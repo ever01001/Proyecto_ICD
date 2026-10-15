@@ -1,0 +1,77 @@
+{
+  "municipio": {
+    "id": "regla",
+    "nombre": "Regla",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 40,
+    "mediana_usd": 9400,
+    "precio_estandarizado_usd": 8500,
+    "rango_usd": {
+      "min_usd": 3500,
+      "max_usd": 85000
+    },
+    "viviendas_en_venta": 11,
+    "permutas": 2,
+    "evolucion": {
+      "texto": "▼ −6 % desde ago-2026 (mín. $7,000 · máx. $10,000)",
+      "variacion_pct": -6.0,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Casa",
+        "propiedades": 17,
+        "mediana_usd": 8500
+      },
+      {
+        "tipo": "Apartamento",
+        "propiedades": 13,
+        "mediana_usd": 7000
+      },
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 10,
+        "mediana_usd": 10000
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "2 hab.",
+        "propiedades": 17,
+        "mediana_usd": 8500
+      },
+      {
+        "habitaciones": "3 hab.",
+        "propiedades": 14,
+        "mediana_usd": 10000
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "Casablanca",
+        "anuncios": 10,
+        "mediana_usd": 10000,
+        "precio_estandarizado_usd": null
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/regla",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=regla",
+    "publicaciones_incluidas": 7,
+    "anuncios_disponibles": 7
+  },
+  "ficheros_publicaciones": [
+    "regla-revolico-001.json",
+    "regla-revolico-002.json",
+    "regla-revolico-003.json",
+    "regla-revolico-004.json",
+    "regla-revolico-005.json",
+    "regla-revolico-006.json",
+    "regla-revolico-007.json"
+  ],
+  "excluidas_por_limite": []
+}

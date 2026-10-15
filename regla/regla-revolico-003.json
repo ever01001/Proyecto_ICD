@@ -1,0 +1,57 @@
+{
+  "id": "regla-revolico-003",
+  "municipio": {
+    "id": "regla",
+    "nombre": "Regla",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/casa-en-venta-en-regla-solo-6500-usd-58008865",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=regla",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Casa en venta en Regla — ¡solo 6,500 USD!",
+    "descripcion": null,
+    "tipo_inmueble": "casa",
+    "operacion": "venta",
+    "reparto": null,
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "6,500 USD",
+    "valor": 6500,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 9400,
+    "precio_estandarizado_usd": 8500,
+    "registros_6_meses": 40,
+    "posicion_vs_mediana_pct": -30.9,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

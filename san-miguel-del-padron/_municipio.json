@@ -1,0 +1,76 @@
+{
+  "municipio": {
+    "id": "san-miguel-del-padron",
+    "nombre": "San Miguel del Padrón",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 167,
+    "mediana_usd": 12000,
+    "precio_estandarizado_usd": 12700,
+    "rango_usd": {
+      "min_usd": 3500,
+      "max_usd": 100000
+    },
+    "viviendas_en_venta": 39,
+    "permutas": 1,
+    "evolucion": {
+      "texto": "0 % desde ago-2026 (mín. $9,000 · máx. $12,000)",
+      "variacion_pct": 0.0,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Casa",
+        "propiedades": 76,
+        "mediana_usd": 12000
+      },
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 46,
+        "mediana_usd": 19000
+      },
+      {
+        "tipo": "Apartamento",
+        "propiedades": 31,
+        "mediana_usd": 6500
+      },
+      {
+        "tipo": "Biplanta",
+        "propiedades": 13,
+        "mediana_usd": 10500
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "no disponible",
+        "propiedades": null,
+        "mediana_usd": null
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "San Francisco de Paula",
+        "anuncios": 16,
+        "mediana_usd": 13500,
+        "precio_estandarizado_usd": null
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/san-miguel-del-padron",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=san-miguel-del-padron",
+    "publicaciones_incluidas": 6,
+    "anuncios_disponibles": 6
+  },
+  "ficheros_publicaciones": [
+    "san-miguel-del-padron-revolico-001.json",
+    "san-miguel-del-padron-revolico-002.json",
+    "san-miguel-del-padron-revolico-003.json",
+    "san-miguel-del-padron-revolico-004.json",
+    "san-miguel-del-padron-revolico-005.json",
+    "san-miguel-del-padron-revolico-006.json"
+  ],
+  "excluidas_por_limite": []
+}

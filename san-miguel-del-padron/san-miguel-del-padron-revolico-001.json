@@ -1,0 +1,57 @@
+{
+  "id": "san-miguel-del-padron-revolico-001",
+  "municipio": {
+    "id": "san-miguel-del-padron",
+    "nombre": "San Miguel del Padrón",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/se-vende-apartamento-en-san-francisco-de-paula-san-francisco-de-paula-san-miguel-del-padron-la-habana-4500-u-58106109",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=san-miguel-del-padron",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Se vende apartamento en San Francisco de Paula",
+    "descripcion": "Aparecía además en el listado de Cotorro",
+    "tipo_inmueble": "apartamento",
+    "operacion": "venta",
+    "reparto": "San Francisco de Paula",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "4,500 USD",
+    "valor": 4500,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 12000,
+    "precio_estandarizado_usd": 12700,
+    "registros_6_meses": 167,
+    "posicion_vs_mediana_pct": -62.5,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}
