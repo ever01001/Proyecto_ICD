@@ -1,0 +1,57 @@
+{
+  "id": "la-lisa-hogarencuba-011",
+  "municipio": {
+    "id": "la-lisa",
+    "nombre": "La Lisa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/la-lisa/HEC2810-casa-de-4-cuartos-y-4-banos-por-90000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=la-lisa",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "**Actualizado: hace un mes**",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2810",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "**Alturas de la Lisa**",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "90,000 (rebajado 10 % desde 100,000 US$)",
+    "valor": 90000,
+    "valor_anterior": 100000,
+    "rebaja_pct": -10.0,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "4",
+    "banos": "4",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 15000,
+    "precio_estandarizado_usd": 20100,
+    "registros_6_meses": 232,
+    "posicion_vs_mediana_pct": 500.0,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/la-lisa.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

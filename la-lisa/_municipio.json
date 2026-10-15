@@ -1,0 +1,101 @@
+{
+  "municipio": {
+    "id": "la-lisa",
+    "nombre": "La Lisa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 232,
+    "mediana_usd": 15000,
+    "precio_estandarizado_usd": 20100,
+    "rango_usd": {
+      "min_usd": 3000,
+      "max_usd": 650000
+    },
+    "viviendas_en_venta": 63,
+    "permutas": null,
+    "evolucion": {
+      "texto": "0 % desde ago-2026",
+      "variacion_pct": 0.0,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Casa",
+        "propiedades": 87,
+        "mediana_usd": 15000
+      },
+      {
+        "tipo": "Apartamento",
+        "propiedades": 77,
+        "mediana_usd": 10000
+      },
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 56,
+        "mediana_usd": 33500
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "2 hab.",
+        "propiedades": 107,
+        "mediana_usd": null
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "Arroyo Arenas",
+        "anuncios": null,
+        "mediana_usd": 35000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Versalles-Coronela",
+        "anuncios": null,
+        "mediana_usd": 21000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Alturas de La Lisa",
+        "anuncios": null,
+        "mediana_usd": 15000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "San Agustín",
+        "anuncios": null,
+        "mediana_usd": 10000,
+        "precio_estandarizado_usd": null
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/la-lisa",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=la-lisa",
+    "publicaciones_incluidas": 18,
+    "anuncios_disponibles": 18
+  },
+  "ficheros_publicaciones": [
+    "la-lisa-casas-oasis-001.json",
+    "la-lisa-casas-oasis-002.json",
+    "la-lisa-casas-oasis-003.json",
+    "la-lisa-casas-oasis-004.json",
+    "la-lisa-casas-oasis-005.json",
+    "la-lisa-casas-oasis-006.json",
+    "la-lisa-casas-oasis-007.json",
+    "la-lisa-casas-oasis-008.json",
+    "la-lisa-casas-oasis-009.json",
+    "la-lisa-casas-oasis-010.json",
+    "la-lisa-hogarencuba-011.json",
+    "la-lisa-casas-oasis-012.json",
+    "la-lisa-revolico-013.json",
+    "la-lisa-revolico-014.json",
+    "la-lisa-revolico-015.json",
+    "la-lisa-revolico-016.json",
+    "la-lisa-revolico-017.json",
+    "la-lisa-revolico-018.json"
+  ],
+  "excluidas_por_limite": []
+}

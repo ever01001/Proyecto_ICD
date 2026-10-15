@@ -1,0 +1,60 @@
+{
+  "id": "habana-del-este-revolico-002",
+  "municipio": {
+    "id": "habana-del-este",
+    "nombre": "Habana del Este",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/ofertaaa-a-5-cuadras-del-mar-en-cojimar-linda-casa-con-posibilidad-de-garaje-55526662",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=habana-del-este",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Ref 3. Oferta a 5 cuadras del mar: en Cojímar, linda casa con posibilidad de garaje",
+    "descripcion": "A 5 cuadras del mar; posibilidad de garaje",
+    "tipo_inmueble": "casa",
+    "operacion": "venta",
+    "reparto": "Cojímar",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "25,000 USD",
+    "valor": 25000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": null,
+    "garaje": true,
+    "estado": null,
+    "extras": [
+      "garaje",
+      "vista al mar"
+    ]
+  },
+  "contexto_municipio": {
+    "mediana_usd": 25000,
+    "precio_estandarizado_usd": 32500,
+    "registros_6_meses": 343,
+    "posicion_vs_mediana_pct": 0.0,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

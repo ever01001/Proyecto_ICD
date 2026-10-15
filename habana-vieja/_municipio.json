@@ -1,0 +1,101 @@
+{
+  "municipio": {
+    "id": "habana-vieja",
+    "nombre": "Habana Vieja",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 195,
+    "mediana_usd": 22000,
+    "precio_estandarizado_usd": 24500,
+    "rango_usd": {
+      "min_usd": 3500,
+      "max_usd": 280000
+    },
+    "viviendas_en_venta": 53,
+    "permutas": 4,
+    "evolucion": {
+      "texto": "0 % desde ago-2026 (mín. $16,000 · máx. $22,000)",
+      "variacion_pct": 0.0,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Apartamento",
+        "propiedades": 123,
+        "mediana_usd": 20000
+      },
+      {
+        "tipo": "Casa",
+        "propiedades": 58,
+        "mediana_usd": 30000
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "1 hab.",
+        "propiedades": 47,
+        "mediana_usd": 10000
+      },
+      {
+        "habitaciones": "2 hab.",
+        "propiedades": 62,
+        "mediana_usd": 19250
+      },
+      {
+        "habitaciones": "3 hab.",
+        "propiedades": 47,
+        "mediana_usd": 25000
+      },
+      {
+        "habitaciones": "4 hab.",
+        "propiedades": 25,
+        "mediana_usd": 41000
+      },
+      {
+        "habitaciones": "5 hab.",
+        "propiedades": 11,
+        "mediana_usd": 45000
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "Jesús María",
+        "anuncios": 34,
+        "mediana_usd": 17750,
+        "precio_estandarizado_usd": 15400
+      },
+      {
+        "barrio": "Plaza Vieja",
+        "anuncios": 23,
+        "mediana_usd": 50000,
+        "precio_estandarizado_usd": 49000
+      },
+      {
+        "barrio": "Catedral",
+        "anuncios": 22,
+        "mediana_usd": 30000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Belén",
+        "anuncios": 14,
+        "mediana_usd": 25500,
+        "precio_estandarizado_usd": null
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/habana-vieja",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=habana-vieja",
+    "publicaciones_incluidas": 3,
+    "anuncios_disponibles": 3
+  },
+  "ficheros_publicaciones": [
+    "habana-vieja-revolico-001.json",
+    "habana-vieja-revolico-002.json",
+    "habana-vieja-revolico-003.json"
+  ],
+  "excluidas_por_limite": []
+}

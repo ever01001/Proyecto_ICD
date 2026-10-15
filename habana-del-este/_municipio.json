@@ -1,0 +1,143 @@
+{
+  "municipio": {
+    "id": "habana-del-este",
+    "nombre": "Habana del Este",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 343,
+    "mediana_usd": 25000,
+    "precio_estandarizado_usd": 32500,
+    "rango_usd": {
+      "min_usd": 3000,
+      "max_usd": 600000
+    },
+    "viviendas_en_venta": 134,
+    "permutas": 6,
+    "evolucion": {
+      "texto": "▲ +25 % desde ago-2026 (mín. $20,000 · máx. $30,000)",
+      "variacion_pct": 25.0,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Apartamento",
+        "propiedades": 154,
+        "mediana_usd": 11000
+      },
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 90,
+        "mediana_usd": 77500
+      },
+      {
+        "tipo": "Casa",
+        "propiedades": 79,
+        "mediana_usd": 55000
+      },
+      {
+        "tipo": "Biplanta",
+        "propiedades": 18,
+        "mediana_usd": 100000
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "2 hab.",
+        "propiedades": 102,
+        "mediana_usd": 12000
+      },
+      {
+        "habitaciones": "3 hab.",
+        "propiedades": 145,
+        "mediana_usd": 20000
+      },
+      {
+        "habitaciones": "4 hab.",
+        "propiedades": 45,
+        "mediana_usd": 75000
+      },
+      {
+        "habitaciones": "5 hab.",
+        "propiedades": 19,
+        "mediana_usd": 80000
+      },
+      {
+        "habitaciones": "6 hab.",
+        "propiedades": 23,
+        "mediana_usd": 190000
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "Guanabo",
+        "anuncios": 76,
+        "mediana_usd": 85000,
+        "precio_estandarizado_usd": 79800
+      },
+      {
+        "barrio": "Cojímar",
+        "anuncios": 69,
+        "mediana_usd": 49000,
+        "precio_estandarizado_usd": 31500
+      },
+      {
+        "barrio": "Alamar Este",
+        "anuncios": 44,
+        "mediana_usd": 8750,
+        "precio_estandarizado_usd": 9000
+      },
+      {
+        "barrio": "Reparto Bahía",
+        "anuncios": 25,
+        "mediana_usd": 18000,
+        "precio_estandarizado_usd": 16100
+      },
+      {
+        "barrio": "Antonio Guiteras",
+        "anuncios": 22,
+        "mediana_usd": 18000,
+        "precio_estandarizado_usd": 15900
+      },
+      {
+        "barrio": "Camilo Cienfuegos",
+        "anuncios": 17,
+        "mediana_usd": 18000,
+        "precio_estandarizado_usd": 17200
+      },
+      {
+        "barrio": "Alamar - Playa",
+        "anuncios": 16,
+        "mediana_usd": 11750,
+        "precio_estandarizado_usd": 10700
+      },
+      {
+        "barrio": "Alturas de Alamar",
+        "anuncios": 14,
+        "mediana_usd": 10500,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Boca Ciega",
+        "anuncios": 11,
+        "mediana_usd": 150000,
+        "precio_estandarizado_usd": null
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/habana-del-este",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=habana-del-este",
+    "publicaciones_incluidas": 5,
+    "anuncios_disponibles": 5
+  },
+  "ficheros_publicaciones": [
+    "habana-del-este-revolico-001.json",
+    "habana-del-este-revolico-002.json",
+    "habana-del-este-revolico-003.json",
+    "habana-del-este-revolico-004.json",
+    "habana-del-este-revolico-005.json"
+  ],
+  "excluidas_por_limite": []
+}

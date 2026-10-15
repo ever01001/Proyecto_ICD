@@ -1,0 +1,57 @@
+{
+  "id": "habana-del-este-revolico-003",
+  "municipio": {
+    "id": "habana-del-este",
+    "nombre": "Habana del Este",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/oportunidad-unica-en-guanabo-venta-de-propiedad-con-gran-potencial-870m2-55580966",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=habana-del-este",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Venta de propiedad en Guanabo con gran potencial, 870 m²",
+    "descripcion": "870 m²; precio publicado inutilizable",
+    "tipo_inmueble": "propiedad",
+    "operacion": "venta",
+    "reparto": "Guanabo",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": null,
+    "publicado": "60 USD (precio atípico, probable error del anunciante)",
+    "valor": null,
+    "valor_anterior": 870,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": true
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 25000,
+    "precio_estandarizado_usd": 32500,
+    "registros_6_meses": 343,
+    "posicion_vs_mediana_pct": null,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

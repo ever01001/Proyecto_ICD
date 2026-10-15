@@ -1,0 +1,57 @@
+{
+  "id": "la-lisa-casas-oasis-002",
+  "municipio": {
+    "id": "la-lisa",
+    "nombre": "La Lisa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "casas_oasis",
+    "categoria": "anuncio",
+    "url": "https://casasoasis.com/es/venta/casas-independientes/la-habana/la-lisa/alturas-de-la-lisa/casa-independiente-3-habitaciones-14322",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=la-lisa",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "22 días",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Oasis 14322",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Alturas de La Lisa",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "15,000",
+    "valor": 15000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "3",
+    "banos": "2",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 15000,
+    "precio_estandarizado_usd": 20100,
+    "registros_6_meses": 232,
+    "posicion_vs_mediana_pct": 0.0,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/la-lisa.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

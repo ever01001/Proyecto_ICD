@@ -1,0 +1,57 @@
+{
+  "id": "la-lisa-casas-oasis-010",
+  "municipio": {
+    "id": "la-lisa",
+    "nombre": "La Lisa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "casas_oasis",
+    "categoria": "anuncio",
+    "url": "https://casasoasis.com/es/venta/chalets/la-habana/la-lisa/chalet-2-habitaciones-14354",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=la-lisa",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "20 días",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Oasis 14354 (**chalet**)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "La Lisa (calle 252 # 6510 e/ 65 y 67)",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "14,000",
+    "valor": 14000,
+    "valor_anterior": 14354,
+    "rebaja_pct": -2.5,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "2",
+    "banos": "1",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 15000,
+    "precio_estandarizado_usd": 20100,
+    "registros_6_meses": 232,
+    "posicion_vs_mediana_pct": -6.7,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/la-lisa.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}
