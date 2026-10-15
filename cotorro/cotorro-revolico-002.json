@@ -1,0 +1,57 @@
+{
+  "id": "cotorro-revolico-002",
+  "municipio": {
+    "id": "cotorro",
+    "nombre": "Cotorro",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/de-13500-a-11000-usd-2500-usd-menos-promocion-especial-por-el-resto-del-mes-57682693",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=cotorro",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "De 13,500 a 11,000 USD: 2,500 USD menos, promoción especial por el resto del mes",
+    "descripcion": "Rebaja de 2,500 USD por pronto pago",
+    "tipo_inmueble": "casa",
+    "operacion": "venta",
+    "reparto": null,
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "11,000 USD (antes 13,500)",
+    "valor": 11000,
+    "valor_anterior": 13500,
+    "rebaja_pct": -18.5,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 14000,
+    "precio_estandarizado_usd": 17800,
+    "registros_6_meses": 68,
+    "posicion_vs_mediana_pct": -21.4,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

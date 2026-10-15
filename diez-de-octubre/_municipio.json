@@ -1,0 +1,127 @@
+{
+  "municipio": {
+    "id": "diez-de-octubre",
+    "nombre": "Diez de Octubre",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 599,
+    "mediana_usd": 20000,
+    "precio_estandarizado_usd": 26000,
+    "rango_usd": {
+      "min_usd": 3000,
+      "max_usd": 900000
+    },
+    "viviendas_en_venta": 141,
+    "permutas": 3,
+    "evolucion": {
+      "texto": "0 % desde ago-2026 (mín. $18,000 · máx. $20,000)",
+      "variacion_pct": 0.0,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Apartamento",
+        "propiedades": 232,
+        "mediana_usd": 15000
+      },
+      {
+        "tipo": "Casa",
+        "propiedades": 226,
+        "mediana_usd": 25000
+      },
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 105,
+        "mediana_usd": 45000
+      },
+      {
+        "tipo": "Biplanta",
+        "propiedades": 33,
+        "mediana_usd": 26000
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "1 hab.",
+        "propiedades": 61,
+        "mediana_usd": 7500
+      },
+      {
+        "habitaciones": "2 hab.",
+        "propiedades": 237,
+        "mediana_usd": 17000
+      },
+      {
+        "habitaciones": "3 hab.",
+        "propiedades": 154,
+        "mediana_usd": 24000
+      },
+      {
+        "habitaciones": "4 hab.",
+        "propiedades": 98,
+        "mediana_usd": 45000
+      },
+      {
+        "habitaciones": "5 hab.",
+        "propiedades": 30,
+        "mediana_usd": 62500
+      },
+      {
+        "habitaciones": "6 hab.",
+        "propiedades": 19,
+        "mediana_usd": 65000
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "Lawton",
+        "anuncios": 136,
+        "mediana_usd": 15000,
+        "precio_estandarizado_usd": 16000
+      },
+      {
+        "barrio": "Santos Suárez",
+        "anuncios": 130,
+        "mediana_usd": 27000,
+        "precio_estandarizado_usd": 28900
+      },
+      {
+        "barrio": "Víbora",
+        "anuncios": 74,
+        "mediana_usd": 25000,
+        "precio_estandarizado_usd": 27500
+      },
+      {
+        "barrio": "Luyanó",
+        "anuncios": 61,
+        "mediana_usd": 16000,
+        "precio_estandarizado_usd": 18200
+      },
+      {
+        "barrio": "Sevillano",
+        "anuncios": 47,
+        "mediana_usd": 30000,
+        "precio_estandarizado_usd": 40900
+      },
+      {
+        "barrio": "Mónaco",
+        "anuncios": 22,
+        "mediana_usd": 33500,
+        "precio_estandarizado_usd": 30900
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/diez-de-octubre",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=diez-de-octubre",
+    "publicaciones_incluidas": 2,
+    "anuncios_disponibles": 2
+  },
+  "ficheros_publicaciones": [
+    "diez-de-octubre-revolico-001.json",
+    "diez-de-octubre-revolico-002.json"
+  ],
+  "excluidas_por_limite": []
+}

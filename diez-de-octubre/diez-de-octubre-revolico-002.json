@@ -1,0 +1,57 @@
+{
+  "id": "diez-de-octubre-revolico-002",
+  "municipio": {
+    "id": "diez-de-octubre",
+    "nombre": "Diez de Octubre",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/se-vende-casa-en-planta-baja-en-lawton-cerca-de-etecsa-58022605",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=diez-de-octubre",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Se vende casa en planta baja en Lawton, cerca de ETECSA",
+    "descripcion": "Planta baja; precio no visible",
+    "tipo_inmueble": "casa",
+    "operacion": "venta",
+    "reparto": "Lawton",
+    "direccion_referencia": "ETECSA"
+  },
+  "precio": {
+    "moneda": null,
+    "publicado": null,
+    "valor": null,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 20000,
+    "precio_estandarizado_usd": 26000,
+    "registros_6_meses": 599,
+    "posicion_vs_mediana_pct": null,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

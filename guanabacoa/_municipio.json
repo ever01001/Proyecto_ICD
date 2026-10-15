@@ -1,0 +1,105 @@
+{
+  "municipio": {
+    "id": "guanabacoa",
+    "nombre": "Guanabacoa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 152,
+    "mediana_usd": 16000,
+    "precio_estandarizado_usd": 18400,
+    "rango_usd": {
+      "min_usd": 3000,
+      "max_usd": 350000
+    },
+    "viviendas_en_venta": 32,
+    "permutas": 4,
+    "evolucion": {
+      "texto": "▲ +6,7 % desde ago-2026 (mín. $10,000 · máx. $16,000)",
+      "variacion_pct": 6.7,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Casa",
+        "propiedades": 64,
+        "mediana_usd": 15000
+      },
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 52,
+        "mediana_usd": 35000
+      },
+      {
+        "tipo": "Apartamento",
+        "propiedades": 25,
+        "mediana_usd": 9000
+      },
+      {
+        "tipo": "Biplanta",
+        "propiedades": 11,
+        "mediana_usd": 12000
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "1 hab.",
+        "propiedades": 13,
+        "mediana_usd": 5500
+      },
+      {
+        "habitaciones": "2 hab.",
+        "propiedades": 57,
+        "mediana_usd": 10000
+      },
+      {
+        "habitaciones": "3 hab.",
+        "propiedades": 40,
+        "mediana_usd": 25000
+      },
+      {
+        "habitaciones": "4 hab.",
+        "propiedades": 29,
+        "mediana_usd": 29000
+      },
+      {
+        "habitaciones": "5 hab.",
+        "propiedades": 10,
+        "mediana_usd": 39000
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "DBeche",
+        "anuncios": 20,
+        "mediana_usd": 25000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Roble",
+        "anuncios": 12,
+        "mediana_usd": 7250,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Chibás",
+        "anuncios": 11,
+        "mediana_usd": 50000,
+        "precio_estandarizado_usd": null
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/guanabacoa",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=guanabacoa",
+    "publicaciones_incluidas": 3,
+    "anuncios_disponibles": 3
+  },
+  "ficheros_publicaciones": [
+    "guanabacoa-revolico-001.json",
+    "guanabacoa-revolico-002.json",
+    "guanabacoa-revolico-003.json"
+  ],
+  "excluidas_por_limite": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "guanabacoa-revolico-003",
+  "municipio": {
+    "id": "guanabacoa",
+    "nombre": "Guanabacoa",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/153-venta-de-casa-puerta-de-calle-de-3-plantas-en-guanabacoa-cerca-del-parque-visitas-con-antelacion-la-casa-no-58138039",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=guanabacoa",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "153. Venta de casa puerta de calle de 3 plantas en Guanabacoa, cerca del parque",
+    "descripcion": "3 plantas; visitas con antelación; precio no visible",
+    "tipo_inmueble": "casa",
+    "operacion": "venta",
+    "reparto": "Cerca del parque",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": null,
+    "publicado": null,
+    "valor": null,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": 3,
+    "garaje": null,
+    "estado": null,
+    "extras": [
+      "puerta a la calle"
+    ]
+  },
+  "contexto_municipio": {
+    "mediana_usd": 16000,
+    "precio_estandarizado_usd": 18400,
+    "registros_6_meses": 152,
+    "posicion_vs_mediana_pct": null,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}
