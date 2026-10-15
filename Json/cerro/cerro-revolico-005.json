@@ -1,0 +1,57 @@
+{
+  "id": "cerro-revolico-005",
+  "municipio": {
+    "id": "cerro",
+    "nombre": "Cerro",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/vendo-casa-biplanta-la-parte-de-abajo-en-reparto-la-asuncion-lawton-10-de-octubre-construccion-capitalista-52904872-47435832",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=cerro",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Casa independiente de 2 plantas (listada en Cerro; el título menciona Lawton, 10 de Octubre)",
+    "descripcion": "Construcción capitalista; discrepancia de municipio entre título y listado",
+    "tipo_inmueble": "casa independiente",
+    "operacion": "venta",
+    "reparto": null,
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "45,000 USD",
+    "valor": 45000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": 2,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 20000,
+    "precio_estandarizado_usd": 22300,
+    "registros_6_meses": 298,
+    "posicion_vs_mediana_pct": 125.0,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

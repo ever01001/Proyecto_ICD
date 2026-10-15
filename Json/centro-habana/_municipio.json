@@ -1,0 +1,146 @@
+{
+  "municipio": {
+    "id": "centro-habana",
+    "nombre": "Centro Habana",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 418,
+    "mediana_usd": 20000,
+    "precio_estandarizado_usd": 22600,
+    "rango_usd": {
+      "min_usd": 4000,
+      "max_usd": 400000
+    },
+    "viviendas_en_venta": 126,
+    "permutas": 8,
+    "evolucion": {
+      "texto": "0 % desde ago-2026 (mín. $16,000 · máx. $20,000)",
+      "variacion_pct": 0.0,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Apartamento",
+        "propiedades": 265,
+        "mediana_usd": 17000
+      },
+      {
+        "tipo": "Casa",
+        "propiedades": 131,
+        "mediana_usd": 24000
+      },
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 10,
+        "mediana_usd": 27500
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "1 hab.",
+        "propiedades": 74,
+        "mediana_usd": 11500
+      },
+      {
+        "habitaciones": "2 hab.",
+        "propiedades": 151,
+        "mediana_usd": 18000
+      },
+      {
+        "habitaciones": "3 hab.",
+        "propiedades": 116,
+        "mediana_usd": 21250
+      },
+      {
+        "habitaciones": "4 hab.",
+        "propiedades": 46,
+        "mediana_usd": 30000
+      },
+      {
+        "habitaciones": "5 hab.",
+        "propiedades": 17,
+        "mediana_usd": 45000
+      },
+      {
+        "habitaciones": "6 hab.",
+        "propiedades": 14,
+        "mediana_usd": 55000
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "Cayo Hueso",
+        "anuncios": 59,
+        "mediana_usd": 25000,
+        "precio_estandarizado_usd": 27000
+      },
+      {
+        "barrio": "Pueblo Nuevo",
+        "anuncios": 37,
+        "mediana_usd": 18000,
+        "precio_estandarizado_usd": 16100
+      },
+      {
+        "barrio": "Los Sitios",
+        "anuncios": 32,
+        "mediana_usd": 14500,
+        "precio_estandarizado_usd": 13400
+      },
+      {
+        "barrio": "Colón",
+        "anuncios": 28,
+        "mediana_usd": 41500,
+        "precio_estandarizado_usd": 57800
+      },
+      {
+        "barrio": "Dragones",
+        "anuncios": 20,
+        "mediana_usd": 20000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "San Leopoldo",
+        "anuncios": 18,
+        "mediana_usd": 15000,
+        "precio_estandarizado_usd": 16800
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/centro-habana",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=centro-habana",
+    "publicaciones_incluidas": 26,
+    "anuncios_disponibles": 26
+  },
+  "ficheros_publicaciones": [
+    "centro-habana-hogarencuba-001.json",
+    "centro-habana-hogarencuba-002.json",
+    "centro-habana-casas-oasis-003.json",
+    "centro-habana-casas-oasis-004.json",
+    "centro-habana-casas-oasis-005.json",
+    "centro-habana-casas-oasis-006.json",
+    "centro-habana-casas-oasis-007.json",
+    "centro-habana-casas-oasis-008.json",
+    "centro-habana-casas-oasis-009.json",
+    "centro-habana-casas-oasis-010.json",
+    "centro-habana-casas-oasis-011.json",
+    "centro-habana-casas-oasis-012.json",
+    "centro-habana-casas-oasis-013.json",
+    "centro-habana-casas-oasis-014.json",
+    "centro-habana-casas-oasis-015.json",
+    "centro-habana-casas-oasis-016.json",
+    "centro-habana-casas-oasis-017.json",
+    "centro-habana-casas-oasis-018.json",
+    "centro-habana-casas-oasis-019.json",
+    "centro-habana-casas-oasis-020.json",
+    "centro-habana-hogarencuba-021.json",
+    "centro-habana-revolico-022.json",
+    "centro-habana-revolico-023.json",
+    "centro-habana-revolico-024.json",
+    "centro-habana-casas-oasis-025.json",
+    "centro-habana-revolico-026.json"
+  ],
+  "excluidas_por_limite": []
+}

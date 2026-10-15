@@ -1,0 +1,57 @@
+{
+  "id": "arroyo-naranjo-casas-oasis-006",
+  "municipio": {
+    "id": "arroyo-naranjo",
+    "nombre": "Arroyo Naranjo",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "casas_oasis",
+    "categoria": "anuncio",
+    "url": "https://casasoasis.com/es/venta/casas/la-habana/arroyo-naranjo/casa-2-habitaciones-14330",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=arroyo-naranjo",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "21 días",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Oasis 14330 (Casa)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Arroyo Naranjo (sin reparto indicado)",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "5,500",
+    "valor": 5500,
+    "valor_anterior": 14330,
+    "rebaja_pct": -61.6,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "2",
+    "banos": "1",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 17000,
+    "precio_estandarizado_usd": 19600,
+    "registros_6_meses": 261,
+    "posicion_vs_mediana_pct": -67.6,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/arroyo-naranjo.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

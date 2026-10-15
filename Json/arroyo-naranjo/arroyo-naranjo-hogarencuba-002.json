@@ -1,0 +1,57 @@
+{
+  "id": "arroyo-naranjo-hogarencuba-002",
+  "municipio": {
+    "id": "arroyo-naranjo",
+    "nombre": "Arroyo Naranjo",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/arroyo-naranjo/HEC2434-casa-de-4-cuartos-y-4-banos-por-20000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=arroyo-naranjo",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "hace 5 meses",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2434 (Casa, **Vendido**)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Arroyo Naranjo (sin reparto indicado)",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "20,000",
+    "valor": 20000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "4",
+    "banos": "4",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 17000,
+    "precio_estandarizado_usd": 19600,
+    "registros_6_meses": 261,
+    "posicion_vs_mediana_pct": 17.6,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/arroyo-naranjo.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

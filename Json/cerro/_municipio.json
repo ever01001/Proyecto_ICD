@@ -1,0 +1,133 @@
+{
+  "municipio": {
+    "id": "cerro",
+    "nombre": "Cerro",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 298,
+    "mediana_usd": 20000,
+    "precio_estandarizado_usd": 22300,
+    "rango_usd": {
+      "min_usd": 3000,
+      "max_usd": 300000
+    },
+    "viviendas_en_venta": 70,
+    "permutas": 2,
+    "evolucion": {
+      "texto": "0 % desde ago-2026 (mín. $15,000 · máx. $20,000)",
+      "variacion_pct": 0.0,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Apartamento",
+        "propiedades": 159,
+        "mediana_usd": 15000
+      },
+      {
+        "tipo": "Casa",
+        "propiedades": 95,
+        "mediana_usd": 22000
+      },
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 29,
+        "mediana_usd": 50000
+      },
+      {
+        "tipo": "Biplanta",
+        "propiedades": 12,
+        "mediana_usd": 33500
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "1 hab.",
+        "propiedades": 32,
+        "mediana_usd": 8250
+      },
+      {
+        "habitaciones": "2 hab.",
+        "propiedades": 139,
+        "mediana_usd": 18000
+      },
+      {
+        "habitaciones": "3 hab.",
+        "propiedades": 76,
+        "mediana_usd": 20000
+      },
+      {
+        "habitaciones": "4 hab.",
+        "propiedades": 37,
+        "mediana_usd": 35000
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "Casino Deportivo",
+        "anuncios": 46,
+        "mediana_usd": 25000,
+        "precio_estandarizado_usd": 29900
+      },
+      {
+        "barrio": "Cerro",
+        "anuncios": 30,
+        "mediana_usd": 14500,
+        "precio_estandarizado_usd": 15600
+      },
+      {
+        "barrio": "Latinoamericano",
+        "anuncios": 30,
+        "mediana_usd": 25000,
+        "precio_estandarizado_usd": 20900
+      },
+      {
+        "barrio": "Ayestarán",
+        "anuncios": 26,
+        "mediana_usd": 23500,
+        "precio_estandarizado_usd": 23500
+      },
+      {
+        "barrio": "Palatino",
+        "anuncios": 18,
+        "mediana_usd": 18000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "El Canal",
+        "anuncios": 15,
+        "mediana_usd": 16000,
+        "precio_estandarizado_usd": 16000
+      },
+      {
+        "barrio": "Las Cañas",
+        "anuncios": 13,
+        "mediana_usd": 18000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Santa Catalina",
+        "anuncios": 10,
+        "mediana_usd": 17500,
+        "precio_estandarizado_usd": null
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/cerro",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=cerro",
+    "publicaciones_incluidas": 6,
+    "anuncios_disponibles": 6
+  },
+  "ficheros_publicaciones": [
+    "cerro-revolico-001.json",
+    "cerro-revolico-002.json",
+    "cerro-revolico-003.json",
+    "cerro-revolico-004.json",
+    "cerro-revolico-005.json",
+    "cerro-revolico-006.json"
+  ],
+  "excluidas_por_limite": []
+}

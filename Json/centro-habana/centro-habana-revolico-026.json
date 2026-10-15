@@ -1,0 +1,57 @@
+{
+  "id": "centro-habana-revolico-026",
+  "municipio": {
+    "id": "centro-habana",
+    "nombre": "Centro Habana",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "revolico",
+    "categoria": "anuncio",
+    "url": "https://www.revolico.com/item/casa-independiente-56221733",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=centro-habana",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": null,
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Casa en Centro Habana NEGOCIABLE",
+    "descripcion": "Precio no publicado; negociable",
+    "tipo_inmueble": "casa",
+    "operacion": "venta",
+    "reparto": null,
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": null,
+    "publicado": "1 USD (precio oculto)",
+    "valor": null,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": true,
+    "es_precio_oculto": true
+  },
+  "inmueble": {
+    "habitaciones": null,
+    "banos": null,
+    "superficie_m2": null,
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 20000,
+    "precio_estandarizado_usd": 22600,
+    "registros_6_meses": 418,
+    "posicion_vs_mediana_pct": null,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "consulta directa al listado de Revolico por municipio",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

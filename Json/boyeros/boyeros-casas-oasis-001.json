@@ -1,0 +1,57 @@
+{
+  "id": "boyeros-casas-oasis-001",
+  "municipio": {
+    "id": "boyeros",
+    "nombre": "Boyeros",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "casas_oasis",
+    "categoria": "anuncio",
+    "url": "https://casasoasis.com/es/venta/casas-independientes/la-habana/boyeros/casa-independiente-3-habitaciones-14189",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=boyeros",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "36 días",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Oasis 14189",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Boyeros (sin reparto)",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "13,000",
+    "valor": 13000,
+    "valor_anterior": 14189,
+    "rebaja_pct": -8.4,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "3",
+    "banos": "1",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 25000,
+    "precio_estandarizado_usd": 26700,
+    "registros_6_meses": 296,
+    "posicion_vs_mediana_pct": -48.0,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/boyeros.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

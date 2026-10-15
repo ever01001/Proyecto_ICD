@@ -1,0 +1,57 @@
+{
+  "id": "centro-habana-casas-oasis-005",
+  "municipio": {
+    "id": "centro-habana",
+    "nombre": "Centro Habana",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "casas_oasis",
+    "categoria": "anuncio",
+    "url": "https://casasoasis.com/es/venta/casas/la-habana/centro-habana/los-sitios/casa-6-habitaciones-14347",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=centro-habana",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "21 días",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "14347 (Casa)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Los Sitios",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "40.000",
+    "valor": 40000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "6",
+    "banos": "3",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 20000,
+    "precio_estandarizado_usd": 22600,
+    "registros_6_meses": 418,
+    "posicion_vs_mediana_pct": 100.0,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/centro-habana.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

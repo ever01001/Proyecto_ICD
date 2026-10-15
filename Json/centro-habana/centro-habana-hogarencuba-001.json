@@ -1,0 +1,59 @@
+{
+  "id": "centro-habana-hogarencuba-001",
+  "municipio": {
+    "id": "centro-habana",
+    "nombre": "Centro Habana",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "hogarencuba",
+    "categoria": "anuncio",
+    "url": "https://hogarencuba.com/la-habana/centro-habana/HEC2808-casa-de-4-cuartos-por-65000",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=centro-habana",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "hace 5 meses (~13-may-2026)",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "HEC2808 (**casa con negocio**: \"preparada para negocio de renta de habitaciones para turismo\")",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Centro Habana (sin reparto)",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "65.000",
+    "valor": 65000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "4",
+    "banos": "no disponible",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": [
+      "negocio/hostal"
+    ]
+  },
+  "contexto_municipio": {
+    "mediana_usd": 20000,
+    "precio_estandarizado_usd": 22600,
+    "registros_6_meses": 418,
+    "posicion_vs_mediana_pct": 225.0,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/centro-habana.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

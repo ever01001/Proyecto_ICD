@@ -1,0 +1,57 @@
+{
+  "id": "arroyo-naranjo-casas-oasis-013",
+  "municipio": {
+    "id": "arroyo-naranjo",
+    "nombre": "Arroyo Naranjo",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "fuente": {
+    "portal": "casas_oasis",
+    "categoria": "anuncio",
+    "url": "https://casasoasis.com/es/venta/casas-independientes/la-habana/arroyo-naranjo/parcelacion/casa-independiente-2-habitaciones-13904",
+    "url_listado": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=arroyo-naranjo",
+    "fecha_consulta": "2026-10-13",
+    "antiguedad_publicada": "61 días",
+    "dentro_de_ventana_12_meses": true
+  },
+  "publicacion": {
+    "titulo": "Oasis 13904 (Casa Independiente)",
+    "descripcion": null,
+    "tipo_inmueble": null,
+    "operacion": "venta",
+    "reparto": "Calle 9na, Parcelación",
+    "direccion_referencia": null
+  },
+  "precio": {
+    "moneda": "USD",
+    "publicado": "28,000",
+    "valor": 28000,
+    "valor_anterior": null,
+    "rebaja_pct": null,
+    "negociable": false,
+    "es_precio_oculto": false
+  },
+  "inmueble": {
+    "habitaciones": "2",
+    "banos": "2",
+    "superficie_m2": "no disponible",
+    "plantas": null,
+    "garaje": null,
+    "estado": null,
+    "extras": []
+  },
+  "contexto_municipio": {
+    "mediana_usd": 17000,
+    "precio_estandarizado_usd": 19600,
+    "registros_6_meses": 261,
+    "posicion_vs_mediana_pct": 64.7,
+    "fecha_datos": "2026-10-13"
+  },
+  "trazabilidad": {
+    "extraido_de": "informe de recolección research/municipios/arroyo-naranjo.md",
+    "json_origen": "municipios_lahabana_precios.json",
+    "discrepancias": [],
+    "notas": null
+  }
+}

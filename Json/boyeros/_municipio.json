@@ -1,0 +1,132 @@
+{
+  "municipio": {
+    "id": "boyeros",
+    "nombre": "Boyeros",
+    "provincia": "La Habana",
+    "pais": "Cuba"
+  },
+  "resumen": {
+    "fecha_datos": "2026-10-13",
+    "periodo_registros": "últimos 6 meses",
+    "registros_6_meses": 296,
+    "mediana_usd": 25000,
+    "precio_estandarizado_usd": 26700,
+    "rango_usd": {
+      "min_usd": 3000,
+      "max_usd": 370000
+    },
+    "viviendas_en_venta": 55,
+    "permutas": null,
+    "evolucion": {
+      "texto": "▲ +11,1 % desde ago-2026 (único municipio con variación distinta de cero junto a Guanabacoa y Habana del Este)",
+      "variacion_pct": 11.1,
+      "desde": "2026-08"
+    },
+    "por_tipo": [
+      {
+        "tipo": "Casa Independiente",
+        "propiedades": 114,
+        "mediana_usd": 42500
+      },
+      {
+        "tipo": "Casa",
+        "propiedades": 83,
+        "mediana_usd": 25000
+      },
+      {
+        "tipo": "Biplanta",
+        "propiedades": 13,
+        "mediana_usd": 45000
+      },
+      {
+        "tipo": "Apartamento",
+        "propiedades": 78,
+        "mediana_usd": 10000
+      }
+    ],
+    "por_habitaciones": [
+      {
+        "habitaciones": "3 hab.",
+        "propiedades": null,
+        "mediana_usd": 22000
+      },
+      {
+        "habitaciones": "4 hab.",
+        "propiedades": null,
+        "mediana_usd": 47500
+      }
+    ],
+    "por_barrio": [
+      {
+        "barrio": "Fontanar",
+        "anuncios": null,
+        "mediana_usd": 60000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Aldabó",
+        "anuncios": null,
+        "mediana_usd": 40000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Río Verde",
+        "anuncios": null,
+        "mediana_usd": 32000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Calabaza",
+        "anuncios": null,
+        "mediana_usd": 24000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Altahabana",
+        "anuncios": null,
+        "mediana_usd": 22000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Santiago de las Vegas",
+        "anuncios": null,
+        "mediana_usd": 17500,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Abel Santamaría",
+        "anuncios": null,
+        "mediana_usd": 14000,
+        "precio_estandarizado_usd": null
+      },
+      {
+        "barrio": "Mulgoba",
+        "anuncios": null,
+        "mediana_usd": 11500,
+        "precio_estandarizado_usd": null
+      }
+    ],
+    "fuente_estadistica": "https://casasoasis.com/es/precios/la-habana/boyeros",
+    "listado_anuncios": "https://www.revolico.com/search?order=date&category=inmobiliaria&subcategory=inmobiliaria-casas&province=la-habana&municipality=boyeros",
+    "publicaciones_incluidas": 15,
+    "anuncios_disponibles": 15
+  },
+  "ficheros_publicaciones": [
+    "boyeros-casas-oasis-001.json",
+    "boyeros-casas-oasis-002.json",
+    "boyeros-casas-oasis-003.json",
+    "boyeros-casas-oasis-004.json",
+    "boyeros-casas-oasis-005.json",
+    "boyeros-casas-oasis-006.json",
+    "boyeros-casas-oasis-007.json",
+    "boyeros-casas-oasis-008.json",
+    "boyeros-casas-oasis-009.json",
+    "boyeros-casas-oasis-010.json",
+    "boyeros-casas-oasis-011.json",
+    "boyeros-casas-oasis-012.json",
+    "boyeros-casas-oasis-013.json",
+    "boyeros-hogarencuba-014.json",
+    "boyeros-revolico-015.json"
+  ],
+  "excluidas_por_limite": []
+}
